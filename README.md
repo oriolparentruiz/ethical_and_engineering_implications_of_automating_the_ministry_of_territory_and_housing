@@ -1,0 +1,3 @@
+﻿# Ethical_and_Engineering_Implications_of_Automating_the_Ministry_of_Territory_and_Housing
+
+Descripcio del projecte pendent.
